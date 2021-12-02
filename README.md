@@ -4,7 +4,7 @@
 
 **Some of my works:**
 
-<img src="https://user-images.githubusercontent.com/91697032/144442015-293ea4f5-4cf6-487f-b515-b8fa97df0175.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/91697032/144442015-293ea4f5-4cf6-487f-b515-b8fa97df0175.png" width="500" height="500">
 
 ![image](https://user-images.githubusercontent.com/91697032/144442015-293ea4f5-4cf6-487f-b515-b8fa97df0175.png)
 
