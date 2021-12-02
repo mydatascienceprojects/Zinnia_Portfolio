@@ -4,4 +4,6 @@
 
 **Some of my works:**
 
-[GitHub Pages](https://github.com/mydatascienceprojects/Zinnia_Portfolio/blob/main/reviews-sentiment-analysis-95-7-accuracy.ipynb)
+
+
+[Text Classification using Sentinent Analysis](https://github.com/mydatascienceprojects/Zinnia_Portfolio/blob/main/reviews-sentiment-analysis-95-7-accuracy.ipynb)
