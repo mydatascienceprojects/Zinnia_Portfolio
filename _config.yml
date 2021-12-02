@@ -1,10 +1,7 @@
-theme: jekyll-theme-cayman
 title: [Welcome to my Data Science Portfolio]
 description: [Hi! I am Zinnia studying Masters at Politecnico di Torino Italy. This is my Github portfolio where I upload the diverse Data Science and Machine Learning Projects I have worked on. If you like my work you can leave a comment or contact me in my Linkedin profile.]
-colors:
-    gradient_left: "#D06183"
-    gradient_right: "#B9788C"
-    header: "#DE3163"
-    android_theme: "#971F43" # this default to gradient_color
-    link: "#1e6bb8" # this default to gradient_color
-    section_title: "#D06183" # this default to gradient_color
+remote_theme: tuur29/pages-themes-cayman
+color:
+  header: "#000"
+  gradient_left: "#e53935"
+  gradient_right: "#f57c00"
