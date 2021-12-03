@@ -3,3 +3,5 @@ gem "github-pages", group: :jekyll_plugins
 title: [Welcome to my Data Science Portfolio]
 description: [Hi! I am Zinnia. Here I have uploaded some of interesting Data Science and Machine Learning Projects I have worked on]
 
+
+theme: jekyll-theme-cayman
