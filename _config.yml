@@ -2,4 +2,5 @@ remote_theme: tuur29/pages-themes-cayman
 gem "github-pages", group: :jekyll_plugins
 title: [Welcome to my Data Science Portfolio]
 description: [Hi! I am Zinnia. This is where I have uploaded some of interesting Data Science and Machine Learning Projects I have worked on. If you like my work you can leave a comment or contact me in my Linkedin profile.]
-darkmode: true
+LinkedIn:
+  zip_url: https://www.linkedin.com/in/zinnia-mondal-659035b3/
