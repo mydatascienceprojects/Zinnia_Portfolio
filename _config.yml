@@ -2,10 +2,4 @@ remote_theme: tuur29/pages-themes-cayman
 gem "github-pages", group: :jekyll_plugins
 title: [Welcome to my Data Science Portfolio]
 description: [Hi! I am Zinnia. This is where I have uploaded some of interesting Data Science and Machine Learning Projects I have worked on. If you like my work you can leave a comment or contact me in my Linkedin profile.]
-colors:
-    gradient_left: "#5a3f37"
-    gradient_right: "#2c7744"
-    header: "#fff"
-    android_theme: "#000" # this default to gradient_color
-    link: "#1e6bb8" # this default to gradient_color
-    section_title: "#155799" # 
+darkmode: true
