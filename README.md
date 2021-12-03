@@ -3,7 +3,7 @@
 I have always been passionate about coding and even after being a Telecommunications Engineer, I got interested in Data Science and fell in love with it. It has been a wonderful experience of learning and growth so far and I solve interesting real life problems and upload them here. You can contact me on my [LinkedIn](https://www.linkedin.com/in/zinnia-mondal-659035b3/) or email- zinnia.mondal@studenti.polito.it
 
 
-![image](https://user-images.githubusercontent.com/91697032/144334944-538b28c3-ffd9-488d-b716-2e418dd9d5bd.png)
+![image](https://user-images.githubusercontent.com/91697032/144334944-538b28c3-ffd9-488d-b716-2e418dd9d5bd.png height="400")
 
 **Some of my works:**
 
